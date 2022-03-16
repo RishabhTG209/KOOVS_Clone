@@ -18,7 +18,6 @@ In this project We have tried to make a look alike clone of Ninewest E-commerce 
 
 3. Sign In/Sign Up page
 ![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/koovsSIgn.JPG?raw=true)
-<br>
 ![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/KoovsSIgnup.JPG?raw=true)
 
 
