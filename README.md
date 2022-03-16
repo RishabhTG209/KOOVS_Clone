@@ -1,13 +1,16 @@
 # KOOVS_Clone
 We have built the E-Commerce Website using tools HTML ,CSS and Javascript.
 We have created the clone of the KOOVS.com
+
+Deployment Link: https://vigorous-meitner-b9028e.netlify.app
+
 Our Team Name is Team-KOOVS and we are 6 members: Rishabh Gupta, Anushka Priya, Linkan Sahu, Vikram Sharma, Prajwal Dhoble, Ajit Kumar Pandey.
 Different Parts of our Clone:
 1. Landing page
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/RishabhTG209/KOOVS_Clone/tree/main/Screenshots/Koovs1.jpg?raw=true)
 <br>
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/RishabhTG209/KOOVS_Clone/tree/main/Screenshots/Koovs2.jpg?raw=true)
 
 2. Product's Page
 3. Sign In/Sign Up page
