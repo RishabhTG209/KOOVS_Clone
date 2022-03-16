@@ -54,10 +54,22 @@ completed how much was needed. And one thing I would like to add that teamwork i
 if one stucks like for example in presentation then another comes forward and handle that situation. 
 So, this was all from our side and we are delighted to work on similar kind of projects in future as well.
 
-Source of Images : Google.com, Ajio.com, Koovs.com, Myntra.com, Amazon.in
-Source of Font : Google Font. (We have used the "Popins-Sans Sarif" Font).
-Source of Icons : FontAwsome.com
-Source of Code : We took help from Developer Moziila
+## Source of Images
+
+- Google.com
+- Ajio.com
+- Koovs.com
+- Myntra.com
+- Amazon.in
+
+## Source of Font
+- Google Font ("Popins-Sans Sarif")
+
+## Source of Icons
+- FontAwsome.com
+
+## Source of Code
+-  developer.mozilla.org
 
 ## Team Members and Contributors :
 ### Rishabh Gupta
