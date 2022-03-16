@@ -1,10 +1,14 @@
 # KOOVS_Clone
-
-Basically we have built the E-Commerce Website using pure HTML ,CSS and Javascript.
+We have built the E-Commerce Website using tools HTML ,CSS and Javascript.
 We have created the clone of the KOOVS.com
 Our Team Name is Team-KOOVS and we are 6 members: Rishabh Gupta, Anushka Priya, Linkan Sahu, Vikram Sharma, Prajwal Dhoble, Ajit Kumar Pandey.
 Different Parts of our Clone:
 1. Landing page
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+<br>
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 2. Product's Page
 3. Sign In/Sign Up page
 4. Product Detail Page
@@ -29,3 +33,17 @@ Source of Images : Google.com, Ajio.com, Koovs.com, Myntra.com, Amazon.in
 Source of Font : Google Font. (We have used the "Popins-Sans Sarif" Font).
 Source of Icons : FontAwsome.com
 Source of Code : We took help from Developer Moziila
+
+To Connect:
+
+Rishabh GUpta: 
+
+Anushka:
+
+Vikram Sharma:
+
+Linkan Sahu:
+
+Prajwal Dhoble:
+
+Ajit Kumar Pandey:
