@@ -1,13 +1,14 @@
 # KOOVS_Clone
-We have built the E-Commerce Website using tools HTML ,CSS and Javascript.
+
+Project Clone: https://koovs.com/
+
 We have created the clone of the KOOVS.com
 
 Deployment Link: https://vigorous-meitner-b9028e.netlify.app
 
-Our Team Name is Team-KOOVS and we are 6 members: Rishabh Gupta, Anushka Priya, Linkan Sahu, Vikram Sharma, Prajwal Dhoble, Ajit Kumar Pandey.
-Different Parts of our Clone:
-1. Landing page
+In this project We have tried to make a look alike clone of Ninewest E-commerce Website. With our efforts and the technology stack, that we have learned till now in Unit-2 in Masai School, we were able to clone the front end and added similar looks and features.
 
+1. Landing page
 ![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/Koovs1.JPG?raw=true)
 <br>
 ![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/koovs2.JPG?raw=true)
@@ -29,6 +30,14 @@ Different Parts of our Clone:
 6. Address and Coupon Page
 7. Payment Pages
 
+## Technologies we used
+
+In this project we have used the following technologies:
+
+- HTML
+- CSS
+- JavaScript
+
 We have created this clone website by using media queries which makes our project responsive.
 Our Main motive of cloning the KOOVS.com was that to create proper functionality and its designing like:
   -Local Storage - which was very helpful to manage lot of data.
@@ -47,16 +56,21 @@ Source of Font : Google Font. (We have used the "Popins-Sans Sarif" Font).
 Source of Icons : FontAwsome.com
 Source of Code : We took help from Developer Moziila
 
-To Connect with Contributors:
+## Team Members and Contributors :
+### Rishabh Gupta
+- Github : https://github.com/RishabhTG209
 
-Rishabh GUpta: https://github.com/RishabhTG209
+### Anushka
+- Github :  https://github.com/anushka3002
 
-Anushka: https://github.com/anushka3002
+### Vikram Sharma
+- Github : https://github.com/vikram-sharma1
 
-Vikram Sharma: https://github.com/vikram-sharma1
+### Linkan Sahu
+- Github : https://github.com/linkansahu2020
 
-Linkan Sahu: https://github.com/linkansahu2020
+### Prajwal Dhoble
+- Github : https://github.com/PrajwalDhoble
 
-Prajwal Dhoble: https://github.com/PrajwalDhoble
-
-Ajit Kumar Pandey: https://github.com/Ajit24
+### Ajit Kumar Pandey
+- Github : https://github.com/Ajit24
