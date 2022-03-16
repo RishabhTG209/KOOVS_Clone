@@ -10,23 +10,26 @@ In this project We have tried to make a look alike clone of Ninewest E-commerce 
 
 1. Landing page
 ![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/Koovs1.JPG?raw=true)
-<br>
 ![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/koovs2.JPG?raw=true)
-<br>
+
 2. Product's Page
 ![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/KOOVS3.JPG?raw=true)
-<br>
+
+
 3. Sign In/Sign Up page
 ![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/koovsSIgn.JPG?raw=true)
 <br>
 ![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/KoovsSIgnup.JPG?raw=true)
-<br>
+
+
 4. Product Detail Page
 ![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/Koovs4.JPG?raw=true)
-<br>
+
+
 5. Cart Page
 ![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/KOOVS5.JPG?raw=true)
-<br>
+
+
 6. Address and Coupon Page
 7. Payment Pages
 
