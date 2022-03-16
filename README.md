@@ -10,7 +10,7 @@ Different Parts of our Clone:
 
 ![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/Koovs1.JPG?raw=true)
 <br>
-![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/Koovs2.JPG?raw=true)
+![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/koovs2.JPG?raw=true)
 <br>
 2. Product's Page
 ![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/KOOVS3.JPG?raw=true)
@@ -47,16 +47,16 @@ Source of Font : Google Font. (We have used the "Popins-Sans Sarif" Font).
 Source of Icons : FontAwsome.com
 Source of Code : We took help from Developer Moziila
 
-To Connect:
+To Connect with Contributors:
 
-Rishabh GUpta: 
+Rishabh GUpta: https://github.com/RishabhTG209
 
-Anushka:
+Anushka: https://github.com/anushka3002
 
-Vikram Sharma:
+Vikram Sharma: https://github.com/vikram-sharma1
 
-Linkan Sahu:
+Linkan Sahu: https://github.com/linkansahu2020
 
-Prajwal Dhoble:
+Prajwal Dhoble: https://github.com/PrajwalDhoble
 
-Ajit Kumar Pandey:
+Ajit Kumar Pandey: https://github.com/Ajit24
