@@ -6,7 +6,7 @@ We have created the clone of the KOOVS.com
 
 Deployment Link: https://vigorous-meitner-b9028e.netlify.app
 
-In this project We have tried to make a look alike clone of Ninewest E-commerce Website. With our efforts and the technology stack, that we have learned till now in Unit-2 in Masai School, we were able to clone the front end and added similar looks and features.
+In this project We have tried to make a look alike clone of KOOVS E-commerce Website. With our efforts and the technology stack, that we have learned till now in Unit-2 in Masai School, we were able to clone the front end and added similar looks and features.
 
 1. Landing page
 ![alt text](https://github.com/RishabhTG209/KOOVS_Clone/blob/main/Screenshots/Koovs1.JPG?raw=true)
